@@ -1,0 +1,3 @@
+repository "Vuforia/Vuforia@1375415386848@cloud"
+  path "/"
+    smartbranch "/main" changeset "7"   
